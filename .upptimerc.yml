@@ -11,7 +11,7 @@ sites:
     url: https://vrl.sndwxh.co
   - name: VRL Practice Server
     check: "tcp-ping"
-    url: vrl.sndwxh.co
+    url: $VRL_IP
     assignees:
       - the_xrod
     port: 8081
@@ -33,6 +33,7 @@ status-website:
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
   theme: night
+  favicon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f96a.png
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
