@@ -40,17 +40,17 @@
     "url": "https://vrl.sndwxh.co",
     "icon": "https://favicons.githubusercontent.com/vrl.sndwxh.co",
     "slug": "vrl-live-timings",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 799,
-    "timeWeek": 799,
-    "timeMonth": 799,
-    "timeYear": 799,
+    "time": 788,
+    "timeDay": 788,
+    "timeWeek": 788,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/zinoti.co",
     "slug": "zinoti",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 723,
     "timeDay": 723,
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2021-12-12": 41
+      "2021-12-12": 87
     }
   }
 ]
