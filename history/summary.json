@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sndwxh.co.ico",
     "slug": "sndwxh",
     "status": "down",
-    "uptime": "23.46%",
+    "uptime": "23.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.30%",
-    "time": 765,
-    "timeDay": 779,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 958,
+    "uptimeYear": "0.03%",
+    "time": 767,
+    "timeDay": 798,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-07-23": 82,
+      "2023-07-24": 77,
+      "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -379,8 +380,7 @@
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
-      "2022-07-25": 1440,
-      "2022-07-24": 1204
+      "2022-07-25": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.sndwxh.co.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "32.09%",
+    "uptime": "32.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "7.39%",
     "time": 827,
-    "timeDay": 740,
-    "timeWeek": 740,
-    "timeMonth": 740,
-    "timeYear": 828,
+    "timeDay": 829,
+    "timeWeek": 785,
+    "timeMonth": 785,
+    "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-07-23": 82,
+      "2023-07-24": 77,
+      "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -738,8 +739,7 @@
       "2022-08-18": 1440,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
-      "2022-08-15": 937,
-      "2022-07-24": 631
+      "2022-08-15": 937
     }
   },
   {
@@ -748,7 +748,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vrl.sndwxh.co.ico",
     "slug": "vrl-live-timings",
     "status": "down",
-    "uptime": "27.50%",
+    "uptime": "27.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -757,9 +757,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 797,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2023-07-23": 82,
+      "2023-07-24": 77,
+      "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -1122,8 +1123,7 @@
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
-      "2022-07-25": 1440,
-      "2022-07-24": 1440
+      "2022-07-25": 1440
     }
   },
   {
@@ -1132,7 +1132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrl-practice-server",
     "status": "down",
-    "uptime": "26.65%",
+    "uptime": "26.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1143,7 +1143,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-23": 82,
+      "2023-07-24": 77,
+      "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -1506,8 +1507,7 @@
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
-      "2022-07-25": 1440,
-      "2022-07-24": 1440
+      "2022-07-25": 1440
     }
   },
   {
@@ -1516,16 +1516,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinoti.co.ico",
     "slug": "zinoti",
     "status": "up",
-    "uptime": "72.61%",
-    "uptimeDay": "63.69%",
-    "uptimeWeek": "9.10%",
-    "uptimeMonth": "3.58%",
-    "uptimeYear": "76.75%",
-    "time": 1086,
-    "timeDay": 881,
-    "timeWeek": 881,
-    "timeMonth": 4612,
-    "timeYear": 1102,
+    "uptime": "72.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "23.34%",
+    "uptimeMonth": "6.85%",
+    "uptimeYear": "77.02%",
+    "time": 1085,
+    "timeDay": 853,
+    "timeWeek": 872,
+    "timeMonth": 3986,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-07-22": 605,
       "2023-07-21": 1440,
@@ -1614,8 +1614,7 @@
       "2022-08-18": 1440,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
-      "2022-08-15": 933,
-      "2022-07-24": 296
+      "2022-08-15": 933
     }
   }
 ]
