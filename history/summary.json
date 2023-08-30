@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sndwxh.co.ico",
     "slug": "sndwxh",
     "status": "down",
-    "uptime": "22.07%",
+    "uptime": "22.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 818,
-    "timeDay": 904,
-    "timeWeek": 764,
-    "timeMonth": 826,
-    "timeYear": 952,
+    "time": 819,
+    "timeDay": 823,
+    "timeWeek": 771,
+    "timeMonth": 828,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-08-29": 61,
+      "2023-08-30": 60,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -379,8 +380,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
-      "2022-08-31": 1440,
-      "2022-08-30": 1440
+      "2022-08-31": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.sndwxh.co.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "30.19%",
+    "uptime": "30.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.39%",
-    "time": 814,
-    "timeDay": 835,
-    "timeWeek": 733,
-    "timeMonth": 804,
+    "time": 815,
+    "timeDay": 795,
+    "timeWeek": 734,
+    "timeMonth": 805,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-08-29": 61,
+      "2023-08-30": 60,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -759,8 +760,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
-      "2022-08-31": 1440,
-      "2022-08-30": 1440
+      "2022-08-31": 1440
     }
   },
   {
@@ -769,18 +769,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vrl.sndwxh.co.ico",
     "slug": "vrl-live-timings",
     "status": "down",
-    "uptime": "25.88%",
+    "uptime": "25.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 719,
+    "time": 718,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-29": 61,
+      "2023-08-30": 60,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -1143,8 +1144,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
-      "2022-08-31": 1440,
-      "2022-08-30": 1440
+      "2022-08-31": 1440
     }
   },
   {
@@ -1153,7 +1153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrl-practice-server",
     "status": "down",
-    "uptime": "25.08%",
+    "uptime": "25.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1164,7 +1164,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-29": 61,
+      "2023-08-30": 60,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -1527,8 +1528,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
-      "2022-08-31": 1440,
-      "2022-08-30": 1440
+      "2022-08-31": 1440
     }
   },
   {
@@ -1537,16 +1537,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinoti.co.ico",
     "slug": "zinoti",
     "status": "up",
-    "uptime": "74.23%",
+    "uptime": "74.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.81%",
-    "time": 1062,
-    "timeDay": 1066,
-    "timeWeek": 805,
-    "timeMonth": 816,
-    "timeYear": 1085,
+    "uptimeYear": "81.09%",
+    "time": 1064,
+    "timeDay": 2259,
+    "timeWeek": 1010,
+    "timeMonth": 861,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2023-07-22": 605,
       "2023-07-21": 1440,
@@ -1619,8 +1619,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
-      "2022-08-31": 1440,
-      "2022-08-30": 1440
+      "2022-08-31": 1440
     }
   }
 ]
