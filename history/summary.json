@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sndwxh.co.ico",
     "slug": "sndwxh",
     "status": "down",
-    "uptime": "15.97%",
+    "uptime": "15.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 914,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
+    "timeDay": 898,
+    "timeWeek": 898,
+    "timeMonth": 898,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2024-04-23": 699,
+      "2024-04-24": 65,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -379,8 +380,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.sndwxh.co.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "21.85%",
+    "uptime": "21.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 662,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 557,
+    "time": 660,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-04-23": 699,
+      "2024-04-24": 65,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -763,8 +764,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vrl.sndwxh.co.ico",
     "slug": "vrl-live-timings",
     "status": "down",
-    "uptime": "18.73%",
+    "uptime": "18.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-23": 699,
+      "2024-04-24": 65,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -1147,8 +1148,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vrl-practice-server",
     "status": "down",
-    "uptime": "18.15%",
+    "uptime": "18.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-23": 699,
+      "2024-04-24": 65,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -1531,8 +1532,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -1541,15 +1541,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinoti.co.ico",
     "slug": "zinoti",
     "status": "up",
-    "uptime": "71.74%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptime": "71.75%",
+    "uptimeDay": "55.94%",
+    "uptimeWeek": "7.99%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "61.70%",
     "time": 1070,
-    "timeDay": 914,
-    "timeWeek": 914,
-    "timeMonth": 914,
+    "timeDay": 909,
+    "timeWeek": 909,
+    "timeMonth": 909,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2024-04-23": 699,
